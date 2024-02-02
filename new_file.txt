@@ -1,7 +1,1 @@
-Nice terminal, awesome git
-
- / \__
-(      @\___
- /                O
-/       (_____/
-/______/   U
+Hello World!
