@@ -1,7 +1,7 @@
-Mosmosquito can fly, but mosquito is not fly. Auf
+giMosmosquito can fly, but mosquito is not fly. Auf
 
  / \__
 (      @\___
- /                O
+ /             O
 /       (_____/
 /______/   U
