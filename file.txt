@@ -1,4 +1,4 @@
-Nice terminal, awesome git
+Changes during lesson
 
  / \__
 (      @\___
